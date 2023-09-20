@@ -91,6 +91,7 @@ function expiredReceiptData(extended = false) {
       bundleId: 'com.myapp',
       environment: 'production',
       isTrialPeriod: true,
+      promotionalOfferId: '',
       isInIntroOfferPeriod: false,
       originalApplicationVersion: '1.0',
       originalPurchaseDate: 1526649072000,
