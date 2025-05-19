@@ -1,3 +1,4 @@
+# [Deprecated: Please use official Apple App Store Server Library](https://apple.github.io/app-store-server-library-node/#receipt-usage)
 # node-apple-receipt-verify
 
 A Node.js module for Apple In-App-Purchase receipt validation for iOS.
